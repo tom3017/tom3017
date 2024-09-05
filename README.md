@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Park Jung Min</h1>
+<div align="center">
+  <img src="![halloween-1166_256](https://github.com/user-attachments/assets/0fbb42ad-1e6c-4dd4-8d6a-7e5c1846f394)" />
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tom3017&label=Profile%20views&color=0e75b6&style=flat" alt="tom3017" /> </p>
 
 <h3 align="left">Connect with me:</h3>
