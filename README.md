@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Park Jung Min</h1>
+<div align="center">
+  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+</div>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tom3017&label=Profile%20views&color=0e75b6&style=flat" alt="tom3017" /> </p>
